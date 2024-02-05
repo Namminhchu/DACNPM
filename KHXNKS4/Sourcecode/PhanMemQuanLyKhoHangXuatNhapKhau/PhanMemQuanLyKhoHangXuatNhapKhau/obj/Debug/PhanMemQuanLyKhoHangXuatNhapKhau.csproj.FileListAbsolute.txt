@@ -1,0 +1,513 @@
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Properties.Resources.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.frmDangNhap.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmDoiMatKhau.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmMain.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho_TT.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH_TT.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK_TT.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho_TT.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmThongKe.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmTTCN.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho_TT.resources
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.GenerateResource.cache
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CoreCompileInputs.cache
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe.config
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\EnvDTE.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\stdole.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.MSXML.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CopyComplete
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmInPhieu.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe.config
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\EnvDTE.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\stdole.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.AssemblyReference.cache
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Properties.Resources.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.frmDangNhap.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmDoiMatKhau.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmInPhieu.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmMain.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho_TT.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLGN.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLGN_TT.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLGX.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLGX_TT.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH_TT.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK_TT.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho_TT.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmThongKe.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmTTCN.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho_TT.resources
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.GenerateResource.cache
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.cache
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.compiled
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CoreCompileInputs.cache
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\Ms. Chau\Desktop\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+D:\Project\Research\CodeThue\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.AssemblyReference.cache
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe.config
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\EnvDTE.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\stdole.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.AssemblyReference.cache
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Properties.Resources.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.frmDangNhap.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmDoiMatKhau.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmInPhieu.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmMain.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho_TT.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH_TT.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK_TT.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho_TT.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmThongKe.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmTTCN.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho_TT.resources
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.GenerateResource.cache
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.cache
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.compiled
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CoreCompileInputs.cache
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\Ms. Chau\Downloads\ChauNgoc\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe.config
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\EnvDTE.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\stdole.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\EnvDTE80.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\VSLangProj.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\VSLangProj80.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\VSLangProj2.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe.config
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.frmDangNhap.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmDoiMatKhau.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmInPhieu.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmMain.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmThongKe.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmTTCN.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+C:\Users\ACER\OneDrive\Máy tính\QuanLyKhoHangXuatNhapKhau\QuanLyKhoHangXuatNhapKhau\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\ACER\OneDrive\Máy tính\QuanLyKhoHangXuatNhapKhau\QuanLyKhoHangXuatNhapKhau\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.cache
+C:\Users\ACER\OneDrive\Máy tính\DOANCHUYENNGANH\DOANCHUYENNGANH\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.compiled
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe.config
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\EnvDTE.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Build.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\stdole.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\EnvDTE80.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\VSLangProj.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\VSLangProj80.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Text.Json.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Memory.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\VSLangProj2.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Buffers.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe.config
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.frmDangNhap.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmDoiMatKhau.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmInPhieu.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmMain.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmNhapKho_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLHH_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQLTK_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmQuanLyKho_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmThongKe.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmTTCN.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.Views.frmXuatKho_TT.resources
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.cache
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\RdlCompile.compiled
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.exe
+C:\Users\ACER\OneDrive\Máy tính\NHOM-17-BCCK\KHXNKS4\Sourcecode\PhanMemQuanLyKhoHangXuatNhapKhau\PhanMemQuanLyKhoHangXuatNhapKhau\obj\Debug\PhanMemQuanLyKhoHangXuatNhapKhau.pdb

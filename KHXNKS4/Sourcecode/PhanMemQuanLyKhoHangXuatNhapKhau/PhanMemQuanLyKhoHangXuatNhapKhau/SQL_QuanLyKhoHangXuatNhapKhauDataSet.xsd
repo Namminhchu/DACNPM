@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SQL_QuanLyKhoHangXuatNhapKhauDataSet" targetNamespace="http://tempuri.org/SQL_QuanLyKhoHangXuatNhapKhauDataSet.xsd" xmlns:mstns="http://tempuri.org/SQL_QuanLyKhoHangXuatNhapKhauDataSet.xsd" xmlns="http://tempuri.org/SQL_QuanLyKhoHangXuatNhapKhauDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SQL_QuanLyKhoHangXuatNhapKhauConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SQL_QuanLyKhoHangXuatNhapKhauConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PhanMemQuanLyKhoHangXuatNhapKhau.Properties.Settings.GlobalReference.Default.SQL_QuanLyKhoHangXuatNhapKhauConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vThongKeTonKhoTableAdapter" GeneratorDataComponentClassName="vThongKeTonKhoTableAdapter" Name="vThongKeTonKho" UserDataComponentName="vThongKeTonKhoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SQL_QuanLyKhoHangXuatNhapKhauConnectionString (Settings)" DbObjectName="SQL_QuanLyKhoHangXuatNhapKhau.dbo.vThongKeTonKho" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaHH, TenHH, SoLuongTon FROM dbo.vThongKeTonKho</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaHH" DataSetColumn="MaHH" />
+              <Mapping SourceColumn="TenHH" DataSetColumn="TenHH" />
+              <Mapping SourceColumn="SoLuongTon" DataSetColumn="SoLuongTon" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SQL_QuanLyKhoHangXuatNhapKhauDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SQL_QuanLyKhoHangXuatNhapKhauDataSet" msprop:Generator_UserDSName="SQL_QuanLyKhoHangXuatNhapKhauDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vThongKeTonKho" msprop:Generator_TableClassName="vThongKeTonKhoDataTable" msprop:Generator_TableVarName="tablevThongKeTonKho" msprop:Generator_TablePropName="vThongKeTonKho" msprop:Generator_RowDeletingName="vThongKeTonKhoRowDeleting" msprop:Generator_RowChangingName="vThongKeTonKhoRowChanging" msprop:Generator_RowEvHandlerName="vThongKeTonKhoRowChangeEventHandler" msprop:Generator_RowDeletedName="vThongKeTonKhoRowDeleted" msprop:Generator_UserTableName="vThongKeTonKho" msprop:Generator_RowChangedName="vThongKeTonKhoRowChanged" msprop:Generator_RowEvArgName="vThongKeTonKhoRowChangeEvent" msprop:Generator_RowClassName="vThongKeTonKhoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaHH" msprop:Generator_ColumnVarNameInTable="columnMaHH" msprop:Generator_ColumnPropNameInRow="MaHH" msprop:Generator_ColumnPropNameInTable="MaHHColumn" msprop:Generator_UserColumnName="MaHH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="32" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenHH" msprop:Generator_ColumnVarNameInTable="columnTenHH" msprop:Generator_ColumnPropNameInRow="TenHH" msprop:Generator_ColumnPropNameInTable="TenHHColumn" msprop:Generator_UserColumnName="TenHH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="128" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SoLuongTon" msprop:Generator_ColumnVarNameInTable="columnSoLuongTon" msprop:Generator_ColumnPropNameInRow="SoLuongTon" msprop:Generator_ColumnPropNameInTable="SoLuongTonColumn" msprop:Generator_UserColumnName="SoLuongTon" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:vThongKeTonKho" />
+      <xs:field xpath="mstns:MaHH" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
